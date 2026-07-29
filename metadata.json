@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Beauty Salon",
+  "description": "Premium Luxury Women's Hair Salon - Hair Styling, Hair Color, Hair Spa & Luxury Beauty Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
